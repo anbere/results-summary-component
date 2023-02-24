@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/results_summary_screenshot.png)
+![solution-screenshot](/assets/images/results_summary_screenshot.png)
 
 ## My process
 
